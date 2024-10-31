@@ -74,9 +74,16 @@ payload:
   - DOMAIN-SUFFIX,bnappzh.mobi
   - DOMAIN-SUFFIX,bsc.getblock.io
   - DOMAIN-SUFFIX,bscscan.com
+  - DOMAIN-SUFFIX,saasexch.cc
+  - DOMAIN-SUFFIX,saasexch.io
   - DOMAIN-SUFFIX,saasexch.co
-  - DOMAIN-SUFFIX,,saasexch.com
-  - DOMAIN-SUFFIX,,appsflayer.com
+  - DOMAIN-SUFFIX,saasexch.com
+  - DOMAIN-SUFFIX,yingwangtech.cloud
+  - DOMAIN-SUFFIX,yingwangtech.net
+  - DOMAIN-SUFFIX,yingwangtech.mobi
+  - DOMAIN-SUFFIX,yingwangtech.club
+  - DOMAIN-SUFFIX,yingwangtech.cc
+  - DOMAIN-SUFFIX,appsflayer.com
   - DOMAIN-SUFFIX,binancecnt.com
   # PROCESS-NAME,Binance.exe
   - DOMAIN-KEYWORD,binance
